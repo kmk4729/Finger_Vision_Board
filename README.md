@@ -1,5 +1,5 @@
 # Finger_Vision_Board
-
+2022.12 ~ 2023.02
 Winter 2023 Hyper Robotics ROS2 Project  
 (Original: [sendoru/hyper-2023-winter-ros2](https://github.com/sendoru/hyper-2023-winter-ros2))
 
@@ -86,18 +86,6 @@ Winter 2023 Hyper Robotics ROS2 Project
 
 ---
 
-## 📂 폴더 구조 예시
-
-Finger_Vision_Board/
-├── img_publisher/ # 이미지 퍼블리셔 노드
-├── realsense_publisher/ # RealSense 퍼블리셔 노드
-├── test/ # 테스트 코드 및 스크립트
-├── README.md
-└── LICENSE
-
-text
-
----
 
 ## 📮 문의 및 기여
 
